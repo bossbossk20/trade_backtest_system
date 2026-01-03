@@ -1,0 +1,8 @@
+git+https://github.com/rongardF/tvdatafeed.git
+pandas
+numpy
+matplotlib
+streamlit
+plotly
+requests
+streamlit-searchbox
