@@ -2,6 +2,12 @@
 
 A Python-based backtesting system that fetches historical data from TradingView and tests trading strategies.
 
+## Screenshots
+
+![Backtest Results](result.png)
+
+*Interactive web interface showing strategy comparison, performance metrics, and buy/sell signals on candlestick charts*
+
 ## Features
 
 - **Web Interface**: Interactive web dashboard with smart search

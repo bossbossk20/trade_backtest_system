@@ -112,6 +112,10 @@ results/
 *.csv
 *.xlsx
 
+# Allow screenshots in root for README
+!result.png
+!screenshot*.png
+
 # macOS
 *.DS_Store
 .AppleDouble
